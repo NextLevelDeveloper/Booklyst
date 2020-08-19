@@ -1,0 +1,29 @@
+{
+  "name": "firstnodeproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NextLevelDeveloper/youtubeFullstackTutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NextLevelDeveloper/youtubeFullstackTutorial/issues"
+  },
+  "homepage": "https://github.com/NextLevelDeveloper/youtubeFullstackTutorial#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
