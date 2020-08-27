@@ -10,10 +10,6 @@
     margin-bottom: .5rem;
 }
 
-.form-row-end {
-    justify-content: flex-end;
-}
-
 .form-item {
     display: flex;
     flex-direction: column;
@@ -24,6 +20,10 @@
 
 .form-item:first-child {
     margin-left: 0;
+}
+
+.form-row-end {
+    justify-content: flex-end;
 }
 
 .form-item-no-grow {
