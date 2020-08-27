@@ -1,1 +1,1 @@
-# Following youtube full stack web dev tutorial
+# Full stack project using node.js, express, mongodb
