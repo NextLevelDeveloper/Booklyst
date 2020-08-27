@@ -7,4 +7,4 @@
 
 <a href="/authors/<%= book.author.id %>">View Author</a>
 <a href="/books/<%= book.id %>/edit">Edit</a>
-<%- include('../partials/deleteForm', { url: `/books.${book.id}` }) %>
+<%- include('../partials/deleteForm', { url: `/books/${book.id}` }) %>
