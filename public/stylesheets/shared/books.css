@@ -42,7 +42,7 @@
     align-items: center;
     grid-gap: 1rem;
     grid-template-columns: auto auto;
-    margin-left: 2rem;
+    padding-left: 2rem;
 }
 
 .book-details-btn-grid{
@@ -50,15 +50,11 @@
     justify-items: center;
     align-items: center;
     align-content: center;
-    grid-template-areas: 
-        "edit delete"
-        "author author";
+    grid-template-areas:
+    "edit delete"
+    "author author";
     grid-gap: 0.25rem;
     margin-top: 0.5rem;
-}
-
-.fill {
-    justify-self: stretch;
 }
 
 .book-details-btn-author {
