@@ -1,1 +1,1 @@
-# Full stack project using node.js, express, mongodb
+# Full stack project built with MongoDB, Node.js, Express, and using EJS for templating, hosted on Heroku
